@@ -1,0 +1,29 @@
+{
+  "name": "quick-web",
+  "version": "1.0.0",
+  "description": "CLI tool to instantly generate website templates",
+  "main": "index.js",
+  "bin": {
+    "quick-web": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "template",
+    "generator",
+    "html",
+    "css",
+    "javascript",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.0",
+    "inquirer": "^8.2.4",
+    "fs-extra": "^10.1.0"
+  }
+}
