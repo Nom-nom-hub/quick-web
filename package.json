@@ -20,6 +20,14 @@
   ],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nom-nom-hub/quick-web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nom-nom-hub/quick-web/issues"
+  },
+  "homepage": "https://github.com/Nom-nom-hub/quick-web#readme",
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^9.4.0",

@@ -97,7 +97,7 @@ You can customize this template by editing the following files:
 
 ## Credits
 
-Generated with [QuickWeb](https://github.com/yourusername/quick-web)
+Generated with [QuickWeb](https://github.com/Nom-nom-hub/quick-web)
 `;
 }
 

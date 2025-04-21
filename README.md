@@ -2,6 +2,8 @@
 
 QuickWeb is a command-line tool that allows you to instantly generate a basic HTML, CSS, and JavaScript website template. It's perfect for quickly starting new web projects with a solid foundation.
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/Nom-nom-hub/quick-web)
+
 ## Features
 
 - 🚀 **Simple CLI**: Easy-to-use command-line interface with interactive prompts
